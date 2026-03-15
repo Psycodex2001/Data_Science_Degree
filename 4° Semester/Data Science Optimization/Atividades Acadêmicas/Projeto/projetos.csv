@@ -1,0 +1,7 @@
+Projeto,Retorno,Times,Dependencia,PreRequisito
+A,500,1,,
+B,4000,3,,
+C,3000,2,C,A
+D,2000,1,D,A
+D,2000,1,D,C
+E,2000,5,,

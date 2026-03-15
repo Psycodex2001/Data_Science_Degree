@@ -1,0 +1,6 @@
+Data,Ferramenta de IA Utilizada,Prompt Utilizado,Objetivo da IA,Resultados Obtidos
+15/10/2023,Python (scikit-learn),"Treinar modelo de regressão para prever variação da Ibovespa usando IPCA, PIB e dólar",Previsão de desempenho do mercado,"Modelo com R² de 0,78 em dados de teste (base histórica 2018-2022)"
+16/10/2023,ChatGPT-4,"Gerar insights sobre correlação entre volume de negócios e alta da Ibovespa",Análise exploratória,"Identificado que volumes acima de R$ 200 mi/mês (ex: 2020) precedem alta de 8-12% no índice"
+17/10/2023,AutoML (Google Vertex AI),"Classificar estados com maior risco para investimentos usando IDH e PIB per capita",Segmentação geográfica,"Estados com IDH < 0,6 (ex: Alagoas) têm correlação negativa com retorno da Ibovespa"
+18/10/2023,Power BI (Q&A),"Quais meses tiveram IPCA acima de 1% e queda no PIB?",Identificação de anomalias,"Meses de junho/2018 e março/2022 apresentaram alta inflação com PIB negativo"
+19/10/2023,Python (Prophet),"Prever valor do dólar para 2024 com base em dados históricos",Projeção cambial,"Previsão de estabilização em R$ 5,20 ± 0,15 com sazonalidade trimestral"

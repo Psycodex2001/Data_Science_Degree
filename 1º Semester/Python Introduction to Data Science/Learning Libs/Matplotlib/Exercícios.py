@@ -1,0 +1,5 @@
+number = range(1, 8)
+print("Original list: ", number)
+# result = map(lambda x: x * 3, number)
+result = filter(lambda x: x % 2 != 0, number)
+print("\nTriple of said list numbers:", list(result))
