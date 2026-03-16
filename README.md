@@ -1,9 +1,9 @@
 # Data Science Degree
-Here you'll find all my completed activities during my university graduation, like exercises, main projects and materials for professional purposes!
+🤗 Here you'll find all my completed activities during my university graduation, like exercises, main projects and materials for professional purposes!
 The present document is shuffled between english and portuguese language!
 
-The files are divided by each completed semester, given that, each of these have their respective subjects.
-Inside each subject there are:
+📁 The folders are divided by each completed semester, given that, each of these have their respective subjects.
+Inside each subject, there are:
 
 ✅ Academic Activities - Activities proposed by the Professors on the university done by me
 
@@ -15,6 +15,6 @@ The files are well organized for being read from the basics to the advanced task
 The course have 7 semesters, so any file may be updated during it progress.
 
 
-Thanks for your comprehension, feel free to share my graduation history with anyone!
+✨ Thanks for your comprehension, feel free to share my graduation history with anyone!
 
 
